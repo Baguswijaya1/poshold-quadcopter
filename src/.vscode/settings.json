@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/bagus/SAFMC/penugasan/mavros2_ws/install/mavros/local/lib/python3.10/dist-packages",
+        "/home/bagus/SAFMC/penugasan/mavros2_ws/install/mavros_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/bagus/SAFMC/penugasan/mavros2_ws/install/mavros/local/lib/python3.10/dist-packages",
+        "/home/bagus/SAFMC/penugasan/mavros2_ws/install/mavros_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
